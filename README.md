@@ -1,2 +1,2 @@
-# carrito
-carrito de comida usando  almacenamiento local en indexedDB
+# Shopping-cart_JavaScript
+hola mundos
